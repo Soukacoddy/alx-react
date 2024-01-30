@@ -1,0 +1,25 @@
+.App-header {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  color: #e01d3f;
+  border-bottom: 3px solid#e01d3f;
+}
+
+.App-header img {
+  width: 200px;
+}
+
+.App-body {
+  margin: 35px;
+}
+
+.App-footer {
+  display: flex;
+  justify-content: center;
+  border-top: 3px solid #e01d3f;
+  font-style: italic;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
